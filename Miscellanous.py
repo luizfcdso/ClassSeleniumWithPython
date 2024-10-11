@@ -5,7 +5,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-
+#just in case
 #abaixo mostro como rodar o teste sem abrir o browser
 
 chrome_opt = webdriver.ChromeOptions()
